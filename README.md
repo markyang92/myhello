@@ -1,1 +1,1 @@
-# myhello
+Yocto component
