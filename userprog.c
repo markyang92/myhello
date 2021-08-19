@@ -1,8 +1,7 @@
 #include <stdio.h>
-
+#include "mylib.h"
 int main(){
-	printf("Hello Yocto 0.1\n");
-	printf("Hello Yocto 0.2\n");
+	print("Hello mark!\n", 5);
 
 	return 0;
 }
